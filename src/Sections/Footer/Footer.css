@@ -1,0 +1,11 @@
+footer p{
+    text-align: center;
+    padding: 30px 0 ;
+    color: var(--color-light);
+    font-weight: 300;
+}
+footer p a{
+    color: var(--color-primary);
+    transition: all .3s;
+
+}
